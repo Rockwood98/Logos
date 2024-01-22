@@ -13,6 +13,14 @@ const types = {
     font-family: inherit;
     text-align: justify;
   `,
+  big: css`
+    display: flex;
+    align-items: center;
+    gap: 2.2rem;
+    font-size: 2rem;
+    text-align: justify;
+    line-height: 50px;
+  `,
 };
 
 const Text = styled.p`

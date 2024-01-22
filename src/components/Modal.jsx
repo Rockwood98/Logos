@@ -60,6 +60,7 @@ const List = styled.ul`
   display: flex;
   justify-content: space-around;
   align-content: center;
+
   gap: 2.2rem;
   width: 80%;
   margin: 1rem auto;
@@ -67,6 +68,7 @@ const List = styled.ul`
 const Link = styled.li`
   font-size: 1.8rem;
   font-weight: 600;
+
   cursor: pointer;
   transition: all 0.3s;
   color: var(--color-text-04);
@@ -126,7 +128,9 @@ const ModalContent = styled.div`
   height: 100%;
   padding: 1.2rem 0;
 `;
-const ListContent = styled.ul``;
+const ListContent = styled.ul`
+  list-style: disc;
+`;
 const LinkContent = styled.li`
   font-size: 1.8rem;
   /* padding: 0.5rem 0; */

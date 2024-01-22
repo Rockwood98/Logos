@@ -17,6 +17,7 @@ function About() {
   return (
     <Container>
       <ContentBox $position="center">
+        <ProfileImg src="../public/me.webp"></ProfileImg>
         <Heading>Cześć jestem Zofia!</Heading>
         <Text>
           <High>Logopedia</High> to moja pasja, którą połączyłam z pracą
@@ -24,7 +25,7 @@ function About() {
           oświatowych i w służbie zdrowia. Pracę zawodową rozpoczęłam i nadal
           kontynuuję w Poradni Psychologiczno – Pedagogicznej.
         </Text>
-        <ProfileImg src="../public/me.webp"></ProfileImg>
+
         <Heading $type="secondary" $position="left">
           O mnie:
         </Heading>

@@ -41,14 +41,18 @@ function PageNav() {
       <Logo />
       <Navlist>
         <li>
-          <StyledNavLink to="/o-mnie">o mnie</StyledNavLink>
+          <StyledNavLink to="/strona-glowna">Start</StyledNavLink>
         </li>
         <li>
-          <StyledNavLink to="/poradnik">poradnik</StyledNavLink>
+          <StyledNavLink to="/o-mnie">o mnie</StyledNavLink>
         </li>
         <li>
           <StyledNavLink to="/oferta">oferta</StyledNavLink>
         </li>
+        <li>
+          <StyledNavLink to="/poradnik">poradnik</StyledNavLink>
+        </li>
+
         <li>
           <StyledNavLink to="/galeria">galeria</StyledNavLink>
         </li>

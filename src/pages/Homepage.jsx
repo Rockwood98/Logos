@@ -95,9 +95,8 @@ function Homepage() {
           <Text $type="secondary">
             Posiadam bogate wieloletnie doświadczenie w pracy z różnymi grupami
             wiekowymi. Moja praktyka zawodowa obejmuje skuteczne interwencje
-            terapeutyczne, dostosowane do specyficznych potrzeb. Diagnozuję i
-            leczę różnorodne trudności komunikacyjne, wspierając rozwój
-            umiejętności językowych oraz poprawiając jakość komunikacji w
+            terapeutyczne, dostosowane do specyficznych potrzeb. Wspieram rozwój
+            umiejętności językowych oraz poprawiam jakość komunikacji w
             codziennym życiu moich pacjentów.
           </Text>
         </ContentBox>
